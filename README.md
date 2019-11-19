@@ -1,4 +1,6 @@
-﻿# Gremblo Image Of The Day Plugin
+﻿<p align="center"><img src="http://prep4this.com/Gremblo/Gremblo%2043.png" width="200px"></p>
+ 
+ # Gremblo Image Of The Day Plugin
 
 Spice up your Wordpress back-end with over 45 images of the purple hunk himself, Gremblo!
 
