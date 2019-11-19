@@ -1,4 +1,4 @@
-﻿<p align="center"><img src="http://prep4this.com/Gremblo/Gremblo%2043.png"></p>
+﻿<p align="center"><img src="https://i.kym-cdn.com/photos/images/masonry/001/267/048/7d9.jpg"></p>
  
  # Gremblo Image Of The Day Plugin
 
