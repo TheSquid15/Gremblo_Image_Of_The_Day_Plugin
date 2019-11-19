@@ -1,4 +1,4 @@
-﻿<p align="center"><img src="http://prep4this.com/Gremblo/Gremblo%2043.png" width="200px"></p>
+﻿<p align="center"><img src="http://prep4this.com/Gremblo/Gremblo%2043.png"></p>
  
  # Gremblo Image Of The Day Plugin
 
