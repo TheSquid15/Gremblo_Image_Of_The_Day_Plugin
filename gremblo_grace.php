@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Gremblo Images
- * Description: With this plugin you can see a fresh image of our lord and saviour Gremblo every day!
+ * Description: With this plugin you can see a fresh image of our lord and saviour Gremblo each time you go to the Dashboard!
  * Version: 0.1
  * Author: Viðar Vignisson
  * Author URL: https://prep4this.com
@@ -33,11 +33,13 @@ class avatarOfGremblo {
         if ($image == true) 
         {          
             // style="background-image: url(\'' . $image->data->image_link . '\')"
-            echo '<div class="gremblo-widget"><img src="' . $image->data->image_link . '"></div>';
+            echo '<div class="gremblo-widget"><a href="' . $image->data->image_link . '" target="_blank"><img src="' . $image->data->image_link . '"></a></div>';
         }
         else {
             echo '<div class="gremblo-widget"></div>';
         }
+
+        echo '<h2 class="gremblo-title">' . $image->data->title . '</h2>';
         
     }
 
